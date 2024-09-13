@@ -1,7 +1,7 @@
 Present Job and Responsibilities
 ================================
 
-Senior Researcher in the Institute for Earth Observation at EURAC Research,
+Senior Researcher in the Center for Climate Change and Transformation at EURAC Research,
 working preeminently in the Risk Assessment research line, designing and developing
 geo-spatial software tools and models for the management and estimation of
 quantitative information related to disaster risk, dynamic exposure components, or
